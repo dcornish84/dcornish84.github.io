@@ -3338,3 +3338,10 @@ input, select, textarea {
 	object-fit: contain;
 	margin-left: 100px;
 }
+
+.app-screen {
+	width: 60%; 
+	height: 170%; 
+	object-fit: contain;
+	margin-left: 100px;
+}
